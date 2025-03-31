@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a33f5c96fdd2944499631e41393e06c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 60894
+  packageName: Awesome Cartoon Planes Style 3
+  packageVersion: 1.0
+  assetPath: Assets/AwesomeCartoonPlanes/Scripts/Plane.cs
+  uploadId: 113473

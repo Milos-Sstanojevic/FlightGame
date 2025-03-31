@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23b0bcc2b392efd44bd0eef1dfc415a4
+timeCreated: 1496340381
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 94605
+  packageName: Low poly pack
+  packageVersion: 1.0
+  assetPath: Assets/ThirdParty/low poly pack/Particle/Perfab/Flames.prefab
+  uploadId: 194801

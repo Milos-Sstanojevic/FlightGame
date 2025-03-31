@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adf0738bacbec9143bac3c19518ab89a
+timeCreated: 1496401861
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 94605
+  packageName: Low poly pack
+  packageVersion: 1.0
+  assetPath: Assets/ThirdParty/low poly pack/Particle/Perfab/Dust.prefab
+  uploadId: 194801
